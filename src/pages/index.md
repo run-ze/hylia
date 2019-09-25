@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: index
-permalink: index
+permalink: home
 ---
 RT
